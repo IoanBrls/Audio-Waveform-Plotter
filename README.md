@@ -12,4 +12,3 @@ HOW TO USE:
 1. Put the audio file you want to plot into the "sounds" folder
 2. Rename the audio file to have the name "input"
 3. Run the WaveformPlotter.py script
-# Audio-Waveform-Plotter
